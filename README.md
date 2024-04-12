@@ -1,2 +1,3 @@
 # Py4DS
-Generic Python Projects
+
+Data Science projects using Python,Pandas, Numpy, MatplotLib and Seaborn
